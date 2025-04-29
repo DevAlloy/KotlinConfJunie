@@ -22,6 +22,13 @@ kotlin {
             implementation(libs.androidx.test.junit)
             implementation(libs.androidx.espresso.core)
         }
+
+        androidInstrumentedTest.dependencies {
+            implementation(libs.junit)
+            implementation(libs.androidx.test.junit)
+            implementation(libs.androidx.espresso.core)
+            implementation(libs.androidx.compose.ui.test)
+        }
     }
 }
 
@@ -66,4 +73,6 @@ android {
 
 dependencies {
     debugImplementation(libs.compose.ui.tooling)
+    androidTestImplementation(libs.androidx.compose.ui.test)
+    debugImplementation(libs.androidx.compose.ui.test.manifest)
 }
