@@ -161,4 +161,14 @@ We will process your data in accordance with the App Privacy Notice. You can adj
     <string name="partners_swag">Official KotlinConf swag</string>
 
     <string name="partner_detail_title">Partner</string>
+
+    <!-- Room names -->
+    <string name="room_173">Room #173</string>
+    <string name="hall_d3">Hall D3</string>
+    <string name="keynote_room">Keynote room</string>
+    <string name="hall_d2">Hall D2</string>
+    <string name="auditorium_15">Auditorium 15</string>
+    <string name="auditorium_11_12">Auditorium 11+12</string>
+    <string name="auditorium_10">Auditorium 10</string>
+    <string name="auditorium_10_lightning">Auditorium 10 (Lightning talks)</string>
 </resources>
