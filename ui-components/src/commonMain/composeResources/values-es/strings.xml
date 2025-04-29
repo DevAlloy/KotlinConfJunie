@@ -1,0 +1,46 @@
+<resources>
+    <!-- Common -->
+    <string name="lightning_talk">Charla relámpago</string>
+    <string name="now">Ahora</string>
+    <string name="loading">Cargando…</string>
+
+    <!-- Actions -->
+    <string name="action_bookmark">Marcar</string>
+    <string name="action_bookmark_session">Marcar %1$s</string>
+    <string name="action_remove_session_from_bookmarks">Eliminar %1$s de marcadores</string>
+
+    <string name="action_error_reload">Recargar</string>
+
+    <string name="action_rate_negative">Votar negativo</string>
+    <string name="action_rate_neutral">Votar neutral</string>
+    <string name="action_rate_positive">Votar positivo</string>
+
+    <string name="action_state_description_expanded">Expandido</string>
+    <string name="action_state_description_collapsed">Contraído</string>
+    <string name="action_state_description_bookmarked">Marcado</string>
+    <string name="action_state_description_not_bookmarked">No marcado</string>
+
+    <!-- Components -->
+    <string name="feedback_form_type_something">Escribe algo</string>
+    <string name="feedback_form_send">Enviar</string>
+
+    <string name="filter_by_tags">Filtrar por etiquetas</string>
+    <plurals name="filter_by_tags_tag_count">
+        <item quantity="one">%1$d etiqueta seleccionada</item>
+        <item quantity="other">%1$d etiquetas seleccionadas</item>
+    </plurals>
+
+    <string name="filter_label_category">Categoría</string>
+    <string name="filter_label_level">Nivel</string>
+    <string name="filter_label_session_format">Formato de sesión</string>
+
+    <string name="main_header_back">Atrás</string>
+    <string name="main_header_search_hint">Escribe para buscar</string>
+    <string name="main_header_search_clear">Borrar</string>
+
+    <string name="talk_card_your_feedback">Tu opinión</string>
+    <string name="talk_card_how_was_the_talk">¿Qué te pareció la charla?</string>
+    <string name="talk_card_how_was_the_workshop">¿Qué te pareció el taller?</string>
+    <string name="talk_card_icon_desc_education">Educación</string>
+    <string name="talk_card_icon_desc_codelab">Codelab</string>
+</resources>
