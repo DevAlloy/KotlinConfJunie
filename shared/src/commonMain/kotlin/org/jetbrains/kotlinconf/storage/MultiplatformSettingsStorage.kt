@@ -11,6 +11,7 @@ import kotlinx.serialization.SerializationException
 import kotlinx.serialization.json.Json
 import org.jetbrains.kotlinconf.Conference
 import org.jetbrains.kotlinconf.Flags
+import org.jetbrains.kotlinconf.Language
 import org.jetbrains.kotlinconf.NewsItem
 import org.jetbrains.kotlinconf.NotificationSettings
 import org.jetbrains.kotlinconf.SessionId

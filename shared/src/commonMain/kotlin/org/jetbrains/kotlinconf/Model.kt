@@ -94,6 +94,13 @@ enum class Theme {
 }
 
 @Serializable
+enum class Language {
+    ENGLISH,
+    SPANISH,
+    GERMAN,
+}
+
+@Serializable
 class NewsItem(
     val id: String,
     val photoUrl: String?,
