@@ -13,6 +13,7 @@ androidx-navigation = "2.9.0-alpha17"
 androidx-lifecycle = "2.9.0-alpha07"
 androidx-preference = "1.2.1"
 androidx-test-junit = "1.2.1"
+androidx-test-compose-ui = "1.8.0"
 androidx-work-runtime = "2.10.0"
 coil = "3.1.0"
 compose-android = "1.8.0"
@@ -101,6 +102,8 @@ settings = { module = "com.russhwolf:multiplatform-settings", version.ref = "mul
 settings-coroutines = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatform-settings" }
 settings-observable = { module = "com.russhwolf:multiplatform-settings-make-observable", version.ref = "multiplatform-settings" }
 settings-serialization = { module = "com.russhwolf:multiplatform-settings-serialization", version.ref = "multiplatform-settings" }
+androidx-compose-ui-test = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "androidx-test-compose-ui" }
+androidx-compose-ui-test-manifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "androidx-test-compose-ui" }
 
 [plugins]
 aboutLibraries = { id = "com.mikepenz.aboutlibraries.plugin", version.ref = "aboutlibraries" }
