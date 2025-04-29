@@ -3,6 +3,7 @@ package org.jetbrains.kotlinconf.storage
 import kotlinx.coroutines.flow.Flow
 import org.jetbrains.kotlinconf.Conference
 import org.jetbrains.kotlinconf.Flags
+import org.jetbrains.kotlinconf.Language
 import org.jetbrains.kotlinconf.NewsItem
 import org.jetbrains.kotlinconf.NotificationSettings
 import org.jetbrains.kotlinconf.SessionId
@@ -21,6 +22,9 @@ interface ApplicationStorage {
 
     fun getTheme(): Flow<Theme>
     suspend fun setTheme(value: Theme)
+
+    fun getLanguage(): Flow<Language>
+    suspend fun setLanguage(value: Language)
 
     fun getConferenceCache(): Flow<Conference?>
     suspend fun setConferenceCache(value: Conference)

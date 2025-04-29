@@ -130,6 +130,12 @@ class ConferenceService(
         scope.launch { storage.setTheme(theme) }
     }
 
+    fun getLanguage(): Flow<Language> = storage.getLanguage()
+
+    fun setLanguage(language: Language) {
+        scope.launch { storage.setLanguage(language) }
+    }
+
     suspend fun loadConferenceData() {
         val newData = client.downloadConferenceData() ?: return
         val oldData = storage.getConferenceCache().first()

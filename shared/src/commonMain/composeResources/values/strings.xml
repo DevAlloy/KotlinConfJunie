@@ -111,6 +111,10 @@ We will process your data in accordance with the App Privacy Notice. You can adj
     <string name="settings_theme_light">Light</string>
     <string name="settings_theme_dark">Dark</string>
     <string name="settings_notifications_title">Notifications</string>
+    <string name="settings_language_title">Language</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_spanish">Spanish</string>
+    <string name="settings_language_german">German</string>
 
     <string name="schedule_action_filter_bookmarked">Filter bookmarked</string>
     <string name="schedule_action_search">Search</string>
@@ -161,4 +165,29 @@ We will process your data in accordance with the App Privacy Notice. You can adj
     <string name="partners_swag">Official KotlinConf swag</string>
 
     <string name="partner_detail_title">Partner</string>
+
+    <!-- Tag values -->
+    <string name="tag_category_server_side">Server-side</string>
+    <string name="tag_category_multiplatform">Multiplatform</string>
+    <string name="tag_category_android">Android</string>
+    <string name="tag_category_extensibility">Extensibility/Tooling</string>
+    <string name="tag_category_language">Language and best practices</string>
+    <string name="tag_category_education">Education</string>
+    <string name="tag_category_other">Other</string>
+
+    <string name="tag_level_introductory">Introductory and overview</string>
+    <string name="tag_level_intermediate">Intermediate</string>
+    <string name="tag_level_advanced">Advanced</string>
+
+    <string name="tag_format_workshop">Workshop</string>
+    <string name="tag_format_regular">Regular session</string>
+    <string name="tag_format_lightning">Lightning talk</string>
+    <string name="tag_format_codelab">Codelab</string>
+
+    <!-- Day values -->
+    <string name="day_workshop">Workshop</string>
+    <string name="day_day">Day</string>
+    <string name="day_conference">Conference</string>
+    <string name="day_day_1">Day 1</string>
+    <string name="day_day_2">Day 2</string>
 </resources>

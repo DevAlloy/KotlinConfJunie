@@ -1,0 +1,193 @@
+<resources>
+    <!-- General resources -->
+
+    <string name="navigate_back">Atrás</string>
+
+    <string name="nav_destination_info">Información</string>
+    <string name="nav_destination_schedule">Agenda</string>
+    <string name="nav_destination_speakers">Ponentes</string>
+    <string name="nav_destination_map">Mapa</string>
+
+    <!-- Screen resources -->
+
+    <string name="about_app_title">Acerca de la aplicación</string>
+    <string name="about_app_description">La aplicación KotlinConf es desarrollada por el equipo de JetBrains utilizando Kotlin Multiplatform para la lógica compartida y Compose Multiplatform para la interfaz de usuario en plataformas Android, iOS, Desktop y Web.
+
+Para el código fuente y más detalles técnicos, visite el repositorio de GitHub.</string>
+    <string name="about_app_link_github">Repositorio de GitHub</string>
+    <string name="about_app_link_rate">Calificar la aplicación</string>
+    <string name="about_app_link_settings">Configuración</string>
+    <string name="about_app_link_privacy_notice">Aviso de privacidad de la aplicación</string>
+    <string name="about_app_link_terms_of_use">Términos de uso de la aplicación</string>
+    <string name="about_app_link_licenses">Licencias</string>
+    <string name="about_app_made_with_junie">Hecho con Junie</string>
+
+    <string name="info_title">Información</string>
+    <string name="info_link_about_conf">Acerca de la conferencia</string>
+    <string name="info_link_about_app">Acerca de la aplicación</string>
+    <string name="info_link_partners">Nuestros socios</string>
+    <string name="info_link_code_of_conduct">Código de conducta</string>
+    <string name="info_link_news_feed">Noticias</string>
+    <string name="info_link_description_twitter">Twitter</string>
+    <string name="info_link_description_slack">Slack</string>
+    <string name="info_link_description_bluesky">Bluesky</string>
+
+    <string name="about_conference_title">Acerca de la conferencia</string>
+    <string name="about_conference_header">KotlinConf 2025</string>
+    <string name="about_conference_description">21 de mayo: Talleres
+22–23 de mayo: Conferencia
+Bella Center, Copenhague, Dinamarca
+
+KotlinConf es la conferencia oficial de Kotlin organizada por JetBrains. Es un lugar para que la comunidad se reúna y discuta todo lo relacionado con Kotlin.
+
+Hashtag en redes sociales: #KotlinConf</string>
+
+    <string name="about_conference_privacy_notice_link">Aviso de privacidad para visitantes</string>
+    <string name="about_conference_general_terms_link">Términos y condiciones generales</string>
+    <string name="about_conference_website_link">kotlinconf.com</string>
+
+    <string name="about_conference_day1_title_line1">Discurso</string>
+    <string name="about_conference_day1_title_line2">de apertura</string>
+
+    <string name="about_conference_day2_title_line1">Discurso del</string>
+    <string name="about_conference_day2_title_line2">segundo día</string>
+
+    <string name="about_conference_codelabs_title_line1">Laboratorios</string>
+    <string name="about_conference_codelabs_title_line2">de código</string>
+
+    <string name="about_conference_party_line1"></string>
+    <string name="about_conference_party_line2">¡Fiesta!</string>
+    <string name="about_conference_party_description">¡Diviértete y socializa con la comunidad en la fiesta de Kotlin más grande del año!</string>
+
+    <string name="about_conference_closingpanel_title_line1">Panel</string>
+    <string name="about_conference_closingpanel_title_line2">de cierre</string>
+
+    <string name="kotlinconf_by_jetbrains_description">KotlinConf por JetBrains 2025</string>
+
+    <string name="privacy_notice_title">Aviso de privacidad</string>
+    <string name="privacy_notice_description">Para que puedas maximizar los beneficios de esta aplicación, necesitamos tu consentimiento para acceder y utilizar el ID de tu dispositivo para que puedas proporcionar y podamos recopilar y rastrear tus comentarios sobre las charlas.
+
+Procesaremos tus datos de acuerdo con el Aviso de Privacidad de la Aplicación. Puedes ajustar o retirar tu consentimiento en cualquier momento enviando una solicitud a privacy@jetbrains.com, pero hacerlo puede afectar el funcionamiento de esta aplicación.</string>
+    <string name="privacy_notice_read_action">Leer el aviso de privacidad de la aplicación</string>
+    <string name="privacy_notice_reject">Rechazar</string>
+    <string name="privacy_notice_accept">Aceptar</string>
+    <string name="privacy_notice_back">Atrás</string>
+
+    <string name="notifications_title">Notificaciones</string>
+    <string name="notifications_description">Personaliza tus preferencias para asegurarte de recibir solo las notificaciones que te importan, evitando interrupciones innecesarias.</string>
+    <string name="notifications_session_reminders_title">Recordatorios de sesiones</string>
+    <string name="notifications_session_reminders_description">Recibe recordatorios para las sesiones que has marcado en la agenda para asegurarte de no perdértelas.</string>
+    <string name="notifications_schedule_update_title">Actualizaciones de agenda</string>
+    <string name="notifications_schedule_update_description">¡Mantente informado sobre cambios cruciales! Recibe una alerta si hay una actualización significativa en la agenda del evento.</string>
+    <string name="notifications_kotlinconf_news_title">Noticias de KotlinConf</string>
+    <string name="notifications_kotlinconf_news_description">Recibe noticias entre eventos de KotlinConf, incluyendo notificaciones sobre venta de entradas, nuevos videos, concursos, anuncios de agenda y más.</string>
+    <string name="notifications_jetbrains_news_title">Noticias de JetBrains</string>
+    <string name="notifications_jetbrains_news_description">Recibe noticias sobre productos de JetBrains.</string>
+    <string name="notifications_lets_get_started">¡Comencemos!</string>
+
+    <string name="code_of_conduct">Código de conducta</string>
+
+    <string name="general_terms">Términos y condiciones generales</string>
+    <string name="visitors_terms_title">Términos y condiciones generales de KotlinConf 2025 para visitantes</string>
+
+    <string name="privacy_notice_for_visitors">Aviso de privacidad</string>
+    <string name="privacy_notice_for_visitors_title">Aviso de privacidad de KotlinConf 2025 para visitantes</string>
+
+    <string name="app_privacy_notice_title">Aviso de privacidad</string>
+    <string name="app_privacy_notice_header">Aviso de privacidad de la aplicación KotlinConf</string>
+
+    <string name="app_terms">Términos de uso</string>
+    <string name="app_terms_header">Términos de uso de la aplicación KotlinConf</string>
+
+    <string name="licenses_title">Licencias</string>
+    <plurals name="licenses_number_of_results">
+        <item quantity="one">%1$d biblioteca encontrada</item>
+        <item quantity="other">%1$d bibliotecas encontradas</item>
+    </plurals>
+
+    <string name="settings_title">Configuración</string>
+    <string name="settings_theme_title">Tema de color</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_notifications_title">Notificaciones</string>
+    <string name="settings_language_title">Idioma</string>
+    <string name="settings_language_english">Inglés</string>
+    <string name="settings_language_spanish">Español</string>
+    <string name="settings_language_german">Alemán</string>
+
+    <string name="schedule_action_filter_bookmarked">Filtrar marcados</string>
+    <string name="schedule_action_search">Buscar</string>
+    <string name="schedule_in_x_minutes">en %1$d min</string>
+    <string name="schedule_error_no_data">Por favor, espera, nuestra agenda está atascada en el tráfico. ¡Estamos despejando el atasco!
+    </string>
+    <string name="schedule_error_no_results">Sin resultados</string>
+    <string name="schedule_label_no_bookmarks">No hay marcadores añadidos aquí</string>
+    <plurals name="schedule_number_of_results">
+        <item quantity="one">%1$d sesión encontrada</item>
+        <item quantity="other">%1$d sesiones encontradas</item>
+    </plurals>
+
+    <string name="session_title">Agenda</string>
+    <string name="session_your_feedback">Tu opinión</string>
+    <string name="session_screen_error">Los detalles de esta sesión no están disponibles en este momento.</string>
+    <string name="session_watch_video">Ver la grabación</string>
+    <string name="session_room_state_description_expanded">Expandido</string>
+    <string name="session_room_state_description_collapsed">Colapsado</string>
+
+    <string name="map_title">Mapa</string>
+    <string name="map_ground_floor">Planta baja</string>
+    <string name="map_first_floor">Primera planta</string>
+
+    <string name="news_feed_title">Noticias</string>
+    <string name="news_feed_empty">¿No hay noticias... son buenas noticias?</string>
+
+    <string name="speakers_title">Ponentes</string>
+    <string name="speakers_error_no_results">Sin resultados</string>
+    <string name="speakers_error_no_data">Nuestros ponentes están jugando al escondite. ¡Danos un momento para encontrarlos!</string>
+    <plurals name="speakers_number_of_results">
+        <item quantity="one">%1$d ponente encontrado</item>
+        <item quantity="other">%1$d ponentes encontrados</item>
+    </plurals>
+
+    <string name="speaker_detail_title">Ponente</string>
+    <string name="speaker_detail_error_not_found">Lo sentimos, no podemos encontrar los detalles de ese ponente.</string>
+
+    <string name="partners_title">Socios</string>
+    <string name="partners_platinum">Platino</string>
+    <string name="partners_gold">Oro</string>
+    <string name="partners_silver">Plata</string>
+    <string name="partners_bronze">Bronce</string>
+    <string name="partners_video">Video</string>
+    <string name="partners_codelab">Codelab</string>
+    <string name="partners_digital">Digital</string>
+    <string name="partners_media">Medios</string>
+    <string name="partners_swag">Merchandising oficial de KotlinConf</string>
+
+    <string name="partner_detail_title">Socio</string>
+
+    <!-- Tag values -->
+    <string name="tag_category_server_side">Servidor</string>
+    <string name="tag_category_multiplatform">Multiplataforma</string>
+    <string name="tag_category_android">Android</string>
+    <string name="tag_category_extensibility">Extensibilidad/Herramientas</string>
+    <string name="tag_category_language">Lenguaje y buenas prácticas</string>
+    <string name="tag_category_education">Educación</string>
+    <string name="tag_category_other">Otros</string>
+
+    <string name="tag_level_introductory">Introductorio y general</string>
+    <string name="tag_level_intermediate">Intermedio</string>
+    <string name="tag_level_advanced">Avanzado</string>
+
+    <string name="tag_format_workshop">Taller</string>
+    <string name="tag_format_regular">Sesión regular</string>
+    <string name="tag_format_lightning">Charla relámpago</string>
+    <string name="tag_format_codelab">Laboratorio de código</string>
+
+    <!-- Day values -->
+    <string name="day_workshop">Taller</string>
+    <string name="day_day">Día</string>
+    <string name="day_conference">Conferencia</string>
+    <string name="day_day_1">Día 1</string>
+    <string name="day_day_2">Día 2</string>
+</resources>
